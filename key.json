@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "strange-bird-207702",
+  "private_key_id": "f5f3ac94f1f723fd8a6fbf19abb46f341fd0848b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDdm975roKEMfTI\nz7m1FZaQOLhaKoGhTFPvg4UibqB1yZKaO7r+VkLfz9Hj8Y2QyU74E6I0ZDapNIG0\nyZw7zYfh8WWpR+lJRbdR2mPk3AK4sHvq4lIcw9Lkz7kAgHjuJsmpvk5gWoCOgEW7\nIlOtn02UzjCQQlUwI6o+Ht2zDj9kl8KpRq7tD/ZADGzEm4SuFyRNdaeMOKbX6LAn\nLAXmaebjvNvg7moXiopahXSR9MHKR8L3iuCg+G//dyDclYFwvoHaEg1JfNUhStDn\nIjsWr8u72pwscbZzFS8XMaqhxhn8n1hVRYqvogjSHZnvjTecTzomUea3Af4KcZqn\nq1LC+ujhAgMBAAECggEAA2Lx5dviV7XRuU3fVyKU0fBj9NDIeVgKwlK+speBMTua\n12uJQIC99eCdov+ae7dv0v+tz2ImqbBJOSOJlSpfZLcFKDCWoo2DrycItsMb8YmU\n4zKBMbpWWzPHbngIIQ+LrmHfnb5UT5krN6BfKfyQuXDrMhEpbxpkbB2ZorZZhqZ5\nxceLJD7s6zAa2RjGBscwGjkTJB9jzrO2kGcShWrDY5s3cNvqFO4Fg8rU8yZ1Yxt2\nNHH6R3AmymgoI52UicdP21NFr/sdqzr5lZP+2NxJkCj9qiEGeUb0JsfJJNmMBbTe\ncA03SXdA7WCUKUyuuV0bpBxkDSpALRel/cQmets2IQKBgQDxc8/yfdWWQSFNJeLD\nxO+YFiDJIpGA+TIRPkxqs2t0hINgDQGvtdOQNB7s9csrq/8rsRR+kj10yaop+37q\nVjCsswxKthNqUO2CxpIIDckb+HDY5Zofkue2PHCAvxLj5U75zk9oT0yCJZ0kyFNh\nf1Q+12O60UYrauS6anKqBK946QKBgQDq9f13WBPc1eLOibrlETtCv8kUzv85yNpW\ny9N7441i0A1gtpDZWeRc/k7SxA/jK3yHc2d//Hi31xuuucuHCTXdrjXwxxi7X1he\nN60aZ5Kbtfq+AYWCmsvYRHfSLKb5cfU0f6MZo40FrouRLKI/7TkYZIWVMngf/MRz\nfwGjgGL1OQKBgFWiycIrtzFPcEw4f7EHjCLY1lAAHrMrrwJGojvF3vq4dRAADPUQ\n/DRNCBrrImAe5KXObIJnw7xEOkIhnOXoI+NcraNh6Ijwowya+Pg6S3XMK9oBtSQ1\nqlEMJqrDGiQSFGytK6THW09dn9qH4mrWCj8vjYOY7dZAV1d2oayDdOjhAoGBAOFa\nR92US5CuT9e6f9e+PDFcErdzhZVdkBRZcCBN8shINdyBndHphr6uZtl9lKNUjR64\n0BcQBpSEqxddOdjtO42/zhp+SrlDzFSpX8yIdDQGSVS9ztiiMUre+HFLxGZRJ1ZP\n6RXpKJO/gjseLQvVMcK0fu7HNjGv1JfVw7OWqtL5AoGARb0K8SCVFkQWGoGCKDdx\ngcq94CK6Zr3sohAgqLCBGZfaAFUJluYI3a+iKoyw1AMacxCZ587NiKXivHgADr6L\ndpqMy6+93fKd46fzMH12RrmD4tI4ICdVoHvIMvADIYKVIbX+L2ufJPel7sd3Xiea\nDrTcoboCLct8cIC7GwtZr/Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "clienttoclient@strange-bird-207702.iam.gserviceaccount.com",
+  "client_id": "107042942909414154122",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/clienttoclient%40strange-bird-207702.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
